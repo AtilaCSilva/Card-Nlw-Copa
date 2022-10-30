@@ -21,6 +21,6 @@ Card do evento da Rocketseat: Nlw Copa! Gratuito e exclusivo
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript e JSON
+- JavaScript e Git
 
 [🔗Clique aqui para acessar!](https://atilacsilva.github.io/Card-Nlw-Copa) 

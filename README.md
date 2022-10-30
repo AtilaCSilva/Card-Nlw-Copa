@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> Card Nlw Copa </h1>
 
 <p align="center">
 Card do evento da Rocketseat: Nlw Copa! Gratuito e exclusivo

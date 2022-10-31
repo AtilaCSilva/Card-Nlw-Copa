@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> Card Nlw Copa </h1>
 
 <p align="center">
 Card do evento da Rocketseat: Nlw Copa! Gratuito e exclusivo
@@ -21,6 +21,6 @@ Card do evento da Rocketseat: Nlw Copa! Gratuito e exclusivo
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript e JSON
+- JavaScript e Git
 
 [🔗Clique aqui para acessar!](https://atilacsilva.github.io/Card-Nlw-Copa) 

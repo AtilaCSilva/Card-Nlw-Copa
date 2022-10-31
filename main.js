@@ -1,4 +1,4 @@
-let isIgnite = false
+let isIgnite = true
 
 const handleChangeCard = event => {
   console.log(event)
